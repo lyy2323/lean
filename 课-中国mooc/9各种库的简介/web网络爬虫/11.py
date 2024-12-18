@@ -5,7 +5,7 @@ def DegreeCurve(n, r, d=1):
     for i in range(n):
         t.left(d)
         t.circle(r, abs(d))
-# 初始位置设定
+# 初始位 置设定
 s = 0.2 # size
 t.setup(450*5*s, 750*5*s)
 t.pencolor("black")
