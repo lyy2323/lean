@@ -1,0 +1,5 @@
+fname = input('文件名：')
+fo = open(lname,'r', encoding='utf-8')
+txt = fo.read()
+print(txt)
+fo.close()
