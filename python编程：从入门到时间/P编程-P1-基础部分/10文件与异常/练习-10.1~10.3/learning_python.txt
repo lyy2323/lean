@@ -1,0 +1,5 @@
+在 python you can print
+在 python you can for i in range()
+在 python you can while循环
+在 python you can if elif else
+在 python you can len
